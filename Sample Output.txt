@@ -1,0 +1,15 @@
+1.Capacity of 1150 units for 1 Hour
+
+{'Output': [{'region': 'New York', 'total_cost': '$10150', 'machines': [('8XLarge', 7), ('XLarge', 1), ('Large', 1)]}, {'region': 'India', 'total_cost': '$9520', 'machines': [('8XLarge', 7), ('Large', 3)]}, {'region': 'China', 'total_cost': '$8570', 'machines': [('8XLarge', 7), ('XLarge', 1), ('Large', 1)]}]}
+
+2.230 units for 5 Hours
+
+{'Output': [{'region': 'New York', 'total_cost': '$11000', 'machines': [('8XLarge', 1), ('2XLarge', 1), ('XLarge', 1), ('Large', 1)]}, {'region': 'India', 'total_cost': '$10665', 'machines': [('8XLarge', 1), ('2XLarge', 1), ('Large', 3)]}, {'region': 'China', 'total_cost': '$9450', 'machines': [('8XLarge', 1), ('XLarge', 3), ('Large', 1)]}]}
+
+3.100 units for 24 Hours
+
+{'Output': [{'region': 'New York', 'total_cost': '$24096', 'machines': [('4XLarge', 1), ('XLarge', 1)]}, {'region': 'India', 'total_cost': '$26544', 'machines': [('2XLarge', 2), ('Large', 2)]}, {'region': 'China', 'total_cost': '$20880', 'machines': [('4XLarge', 1), ('XLarge', 1)]}]}
+
+4.1100 units for 12 Hours
+
+{'Output': [{'region': 'New York', 'total_cost': '$118248', 'machines': [('8XLarge', 6), ('4XLarge', 1), ('2XLarge', 1), ('XLarge', 1)]}, {'region': 'India', 'total_cost': '$111828', 'machines': [('8XLarge', 6), ('2XLarge', 3), ('Large', 2)]}, {'region': 'China', 'total_cost': '$100200', 'machines': [('8XLarge', 6), ('4XLarge', 1), ('XLarge', 3)]}]}
